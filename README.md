@@ -1,1 +1,2 @@
-# proyecto4
+# Electiva
+Repositorio con recursos para la clase electiva
